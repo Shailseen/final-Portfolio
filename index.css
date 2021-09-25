@@ -139,7 +139,7 @@ body {
     transform: scale(1.4);
     /* transform: scale3d(1.4); */
 }
-.blogsections .buttons-twos{
+.blog-sections .buttons-twos{
     color: var(--homepage-color);
     text-align: left;
     text-decoration: none;
@@ -150,4 +150,10 @@ body {
     text-decoration: none;
     padding: 0.5rem 1.8rem;
     margin-right: 0.5rem;
+}
+.blog-sections{
+    margin-bottom: 2rem;
+    padding: 1rem;
+    background-color: rgba(243, 233, 233, 0.603);
+    border-radius: 10px;
 }
