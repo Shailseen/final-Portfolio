@@ -39,7 +39,8 @@ body {
 .headers .h-one{
     text-align: center;
     padding-top: 1rem;
-    color: rgb(26 41 218);   
+    color: gray;
+    /* color: rgb(26 41 218);    */
 }
 .headers .span-one{
     color: var(--homepage-color);
@@ -129,6 +130,10 @@ body {
     margin-right: 0.5rem;
     
 }
+
+#footers ul li a:hover{
+    color: wheat;
+}
 .project-list{
     margin-bottom: 5rem;
 }
@@ -154,6 +159,6 @@ body {
 .blog-sections{
     margin-bottom: 2rem;
     padding: 1rem;
-    background-color: rgba(243, 233, 233, 0.603);
+    /* background-color: rgba(243, 233, 233, 0.603); */
     border-radius: 10px;
 }
