@@ -136,6 +136,7 @@ body {
 }
 .project-list{
     margin-bottom: 5rem;
+    /* width: 500px; */
 }
 .connection-links{
     transition: all 0.3s linear;
