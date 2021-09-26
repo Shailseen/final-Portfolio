@@ -39,8 +39,8 @@ body {
 .headers .h-one{
     text-align: center;
     padding-top: 1rem;
-    color: gray;
-    /* color: rgb(26 41 218);    */
+    /* color: gray; */
+    color: rgb(26 41 218);   
 }
 .headers .span-one{
     color: var(--homepage-color);
